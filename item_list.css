@@ -1,0 +1,36 @@
+body {
+    font-family:  sans-serif;
+    font-size: 100%;
+    background-color: gray;
+    width: 750px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 2em 2em;
+    margin-top: 80px;
+}
+h1 { 
+    font-size: 50px;
+    color: blue;
+    margin-bottom: .5em;
+}
+h1:hover {
+    color: white;
+}
+label {
+    float: left;
+    width: 8em;
+    font-size: 20px;
+    text-align: right;
+}
+label:hover {
+    color: white;
+}
+input {
+    width: 20em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+#items {
+    margin-top: 0;
+    float: right;
+}
